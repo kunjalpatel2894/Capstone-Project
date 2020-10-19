@@ -1,0 +1,18 @@
+Hardware embedded tools
+
+1.	Soldering iron:  Soldering iron is very essential hardware tool as it used to connect two components together or to fix the components on PCB. We can use soldering iron to develop the circuit on circuit board as per the requirement after testing on bread board.
+2.	Desoldering Gun: Desoldering gun is used to desolder the components from each other or from PCB in case of any wrong connection or to replace the failure components.
+3.	Digital Multimeter:  Digital multimeter is very important tool while working with projects related to electronics. Digital multimeter can be used for testing the components by checking its resistance, continuity for their reliable working. It can be used to measure the voltage, current and to find fault in the circuit. 
+4.	Oscilloscope: Oscilloscope is used to monitor or to set the input and output signal in the circuit.
+5.	Cutter and stripper: Cutter are hardware tool generally used to cut the wire while stripper is used to strip off the insulation from wire without damaging the conductor.
+6.	Laptop: Laptop is the most important tools required for embedded system development. With help of laptop we can write the code, simulate the circuit, for research and many more. 
+7.	IR sensors: We will use TSOP 1738 IR sensor which indicates the level of garbage filled in dustbin and we will plant IR sensors at three different levels on the surface of the dustbin to show us the actual level of garbage present in it.
+8.	Lithium-Ion battery: We will use Lithium-Ion battery to give the supply voltage to the LPC1768, IR sensors and LCD.
+
+Software Tools:
+
+1.	MCUXPRESSO IDE: This is one of the main software tools of our project. as we will use MCUExpresso to write, debug and compile code. For LPC1768. 
+2.	WIFI: We are going to use 802.11b/g/n protocol. Wi-Fi module helps us to send the details of the dustbin over cloud. 
+3.	Ubuntu: Ubuntu is an open-source Debian based Linux distribution. We are using Ubuntu as an operating system.
+4.	Easy EDA: Easy Eda is a software in which we can make an easily schematic capture, PCB and circuit stimulation.
+5.	GNU Compiler: We are using GNU compiler to compile the program written in C and C++. 
