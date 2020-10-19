@@ -10,7 +10,7 @@ Hardware and Software tools required in our Project
 2) ESP8266 Wi-fi module 
 3) GSM module
 4) LCD display
-5) IR sensor 
+5) Ultrasonic sensor 
 6) Power supply
 7) Jumper wires and breadboard
 8) Easy EDA
